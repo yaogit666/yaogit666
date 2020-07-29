@@ -1,3 +1,7 @@
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
 int search(vector<int>& nums, int target) {
 	if (nums.empty())
 		return -1;
@@ -27,4 +31,19 @@ int search(vector<int>& nums, int target) {
 		}
 	}
 	return -1;
+}
+
+int main()
+{
+	vector<int> v;
+	int n;
+	while (cin >> n)
+	{
+		v.push_back(n);
+		if (cin.get() == '\n')
+			break;
+	}
+	cout << search(v, 1) << endl;
+	system("pause");
+	return 0;
 }
