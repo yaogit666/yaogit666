@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "围圈报数", "围圈报数\围圈报数.vcxproj", "{7AB28FD6-DD2A-48D0-BD28-06D77F5E48FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AB28FD6-DD2A-48D0-BD28-06D77F5E48FF}.Debug|x64.ActiveCfg = Debug|x64
+		{7AB28FD6-DD2A-48D0-BD28-06D77F5E48FF}.Debug|x64.Build.0 = Debug|x64
+		{7AB28FD6-DD2A-48D0-BD28-06D77F5E48FF}.Debug|x86.ActiveCfg = Debug|Win32
+		{7AB28FD6-DD2A-48D0-BD28-06D77F5E48FF}.Debug|x86.Build.0 = Debug|Win32
+		{7AB28FD6-DD2A-48D0-BD28-06D77F5E48FF}.Release|x64.ActiveCfg = Release|x64
+		{7AB28FD6-DD2A-48D0-BD28-06D77F5E48FF}.Release|x64.Build.0 = Release|x64
+		{7AB28FD6-DD2A-48D0-BD28-06D77F5E48FF}.Release|x86.ActiveCfg = Release|Win32
+		{7AB28FD6-DD2A-48D0-BD28-06D77F5E48FF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67CED669-0E5F-4B3D-953F-20E5C0CD9D28}
+	EndGlobalSection
+EndGlobal
