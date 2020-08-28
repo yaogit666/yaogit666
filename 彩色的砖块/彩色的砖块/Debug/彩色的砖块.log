@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\yaogit666\彩色的砖块\彩色的砖块\源.cpp(9): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+d:\yaogit666\彩色的砖块\彩色的砖块\源.cpp(10): warning C4018: “<”: 有符号/无符号不匹配
+d:\yaogit666\彩色的砖块\彩色的砖块\源.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+  彩色的砖块.vcxproj -> D:\yaogit666\彩色的砖块\Debug\彩色的砖块.exe
