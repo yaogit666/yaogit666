@@ -1,0 +1,14 @@
+﻿  源.cpp
+d:\yaogit666\盖房子\盖房子\源.cpp(2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\yaogit666\盖房子\盖房子\源.cpp(2): error C2146: 语法错误: 缺少“;”(在标识符“链接：https”的前面)
+d:\yaogit666\盖房子\盖房子\源.cpp(5): error C2143: 语法错误: 缺少“;”(在“<class-head>”的前面)
+d:\yaogit666\盖房子\盖房子\源.cpp(5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\yaogit666\盖房子\盖房子\源.cpp(9): error C2065: “vector”: 未声明的标识符
+d:\yaogit666\盖房子\盖房子\源.cpp(9): error C2062: 意外的类型“int”
+d:\yaogit666\盖房子\盖房子\源.cpp(11): error C2065: “x”: 未声明的标识符
+d:\yaogit666\盖房子\盖房子\源.cpp(12): error C2065: “a”: 未声明的标识符
+d:\yaogit666\盖房子\盖房子\源.cpp(14): error C2065: “x”: 未声明的标识符
+d:\yaogit666\盖房子\盖房子\源.cpp(17): error C2065: “x”: 未声明的标识符
+d:\yaogit666\盖房子\盖房子\源.cpp(17): error C2065: “a”: 未声明的标识符
+d:\yaogit666\盖房子\盖房子\源.cpp(18): error C2065: “x”: 未声明的标识符
+d:\yaogit666\盖房子\盖房子\源.cpp(18): error C2065: “a”: 未声明的标识符
