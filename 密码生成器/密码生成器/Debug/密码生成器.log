@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\yaogit666\密码生成器\密码生成器\源.cpp(9): warning C4018: “<”: 有符号/无符号不匹配
+d:\yaogit666\密码生成器\密码生成器\源.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+d:\yaogit666\密码生成器\密码生成器\源.cpp(47): warning C4018: “<”: 有符号/无符号不匹配
+  密码生成器.vcxproj -> D:\yaogit666\密码生成器\Debug\密码生成器.exe
