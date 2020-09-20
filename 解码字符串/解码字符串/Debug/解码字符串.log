@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\yaogit666\解码字符串\解码字符串\源.cpp(3): error C3646: “decodeString”: 未知重写说明符
+d:\yaogit666\解码字符串\解码字符串\源.cpp(3): error C2059: 语法错误:“(”
+d:\yaogit666\解码字符串\解码字符串\源.cpp(3): error C2334: “{”的前面有意外标记；跳过明显的函数体
