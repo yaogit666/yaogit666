@@ -24,7 +24,7 @@ int main()
 		if (table[i] > 1)
 			b = false;
 	}
-	if (b)
+	if (!b)
 		cout << "true" << endl;
 	else
 		cout << "false" << endl;
