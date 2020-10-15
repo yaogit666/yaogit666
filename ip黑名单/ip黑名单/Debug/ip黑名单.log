@@ -1,0 +1,7 @@
+﻿  源.cpp
+d:\yaogit666\ip黑名单\ip黑名单\源.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+d:\yaogit666\ip黑名单\ip黑名单\源.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+d:\yaogit666\ip黑名单\ip黑名单\源.cpp(42): warning C4018: “<”: 有符号/无符号不匹配
+d:\yaogit666\ip黑名单\ip黑名单\源.cpp(44): warning C4018: “<”: 有符号/无符号不匹配
+d:\yaogit666\ip黑名单\ip黑名单\源.cpp(56): warning C4018: “<”: 有符号/无符号不匹配
+  ip黑名单.vcxproj -> D:\yaogit666\ip黑名单\Debug\ip黑名单.exe
